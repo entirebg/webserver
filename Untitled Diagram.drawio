@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T08:54:53.049Z" agent="5.0 (Macintosh)" etag="evayD5db2e0NV0BCUTxg" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-30T09:26:19.605Z" agent="5.0 (Macintosh)" etag="wzwJm6DGsNjXPUy4vY9a" version="20.5.1" type="github" pages="4">
   <diagram id="OnhcADC_LUER88oLc82g" name="Фигура 1">
     <mxGraphModel dx="846" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QwW2KpcObmFaktJAiRRp" name="Фигура 3">
-    <mxGraphModel dx="946" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,6 +203,41 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="375" y="120" as="sourcePoint" />
             <mxPoint x="425" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YN8D_uwHkjDnnR47_D9A" name="Page-4">
+    <mxGraphModel dx="1046" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C8CGJxy73WRXq-GwGk0G-2" value="Национален съвет за тристранни сътрудничество" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C8CGJxy73WRXq-GwGk0G-6" value="&lt;div&gt;Отраслов / Браншов &lt;br&gt;&lt;/div&gt;&lt;div&gt;съвет за тристранно сътрудничество&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C8CGJxy73WRXq-GwGk0G-8" value="Областен / Общински съвет за тристранно сътрудничество" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C8CGJxy73WRXq-GwGk0G-10" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=1.5;fontSize=10;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="C8CGJxy73WRXq-GwGk0G-6" target="C8CGJxy73WRXq-GwGk0G-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="140" as="sourcePoint" />
+            <mxPoint x="90" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C8CGJxy73WRXq-GwGk0G-11" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=1.5;fontSize=10;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="C8CGJxy73WRXq-GwGk0G-8" target="C8CGJxy73WRXq-GwGk0G-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="140" as="sourcePoint" />
+            <mxPoint x="190" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C8CGJxy73WRXq-GwGk0G-12" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=1.5;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C8CGJxy73WRXq-GwGk0G-6" target="C8CGJxy73WRXq-GwGk0G-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="310" as="sourcePoint" />
+            <mxPoint x="70" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
