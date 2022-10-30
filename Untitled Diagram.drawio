@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T08:50:14.847Z" agent="5.0 (Macintosh)" etag="tyTePHg_t8d_bzixziSE" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-30T08:54:53.049Z" agent="5.0 (Macintosh)" etag="evayD5db2e0NV0BCUTxg" version="20.5.1" type="github" pages="3">
   <diagram id="OnhcADC_LUER88oLc82g" name="Фигура 1">
     <mxGraphModel dx="846" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" math="0" shadow="0">
       <root>
@@ -198,6 +198,12 @@
         </mxCell>
         <mxCell id="2VZ7r19YvhN14f5mwsZL-2" value="&lt;div&gt;Работна сила &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Обект)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=1.5;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="505" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2VZ7r19YvhN14f5mwsZL-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;strokeColor=#FF0000;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2VZ7r19YvhN14f5mwsZL-2" target="A9bKyrjRJlpiytgId_qs-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="120" as="sourcePoint" />
+            <mxPoint x="425" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
