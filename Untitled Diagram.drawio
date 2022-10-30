@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T08:30:25.666Z" agent="5.0 (Macintosh)" etag="2qxAz75Ozap0IAUoU6bF" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-30T08:34:39.563Z" agent="5.0 (Macintosh)" etag="4YaoKEC_0qjgajnzlzv7" version="20.5.1" type="github" pages="3">
   <diagram id="OnhcADC_LUER88oLc82g" name="Фигура 1">
     <mxGraphModel dx="846" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" math="0" shadow="0">
       <root>
@@ -188,7 +188,7 @@
         <mxCell id="A9bKyrjRJlpiytgId_qs-16" value="&lt;div&gt;Цели&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="125" y="130" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A9bKyrjRJlpiytgId_qs-17" value="резултати" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="A9bKyrjRJlpiytgId_qs-17" value="Резултати" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="650" y="125" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A9bKyrjRJlpiytgId_qs-20" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;strokeColor=#FF0000;" parent="1" source="A9bKyrjRJlpiytgId_qs-2" target="A9bKyrjRJlpiytgId_qs-4" edge="1">
