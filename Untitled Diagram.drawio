@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T08:35:32.682Z" agent="5.0 (Macintosh)" etag="fYQahc6xLwM_xMrTEDSj" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-30T08:50:14.847Z" agent="5.0 (Macintosh)" etag="tyTePHg_t8d_bzixziSE" version="20.5.1" type="github" pages="3">
   <diagram id="OnhcADC_LUER88oLc82g" name="Фигура 1">
     <mxGraphModel dx="846" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" math="0" shadow="0">
       <root>
@@ -137,22 +137,21 @@
         <mxCell id="A9bKyrjRJlpiytgId_qs-2" value="&lt;div&gt;Фактори на обкръжаващата среда&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="485" y="70" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A9bKyrjRJlpiytgId_qs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="A9bKyrjRJlpiytgId_qs-3" target="A9bKyrjRJlpiytgId_qs-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="A9bKyrjRJlpiytgId_qs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="A9bKyrjRJlpiytgId_qs-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="A9bKyrjRJlpiytgId_qs-3" value="&lt;div&gt;Субект ТСД (ТС)&lt;/div&gt;&lt;div&gt;чл.3 (л) от КТ&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=1.5;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="205" y="120" width="120" height="80" as="geometry" />
+        <mxCell id="A9bKyrjRJlpiytgId_qs-3" value="&lt;div&gt;Тристранно сътрудничество&lt;/div&gt;&lt;div&gt;&amp;nbsp;(Субект)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=1.5;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="200" y="120" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A9bKyrjRJlpiytgId_qs-4" value="&lt;div&gt;Обект работна &lt;br&gt;&lt;/div&gt;&lt;div&gt;сила&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=1.5;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="525" y="120" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="A9bKyrjRJlpiytgId_qs-7" value="чл.2 от КТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;rotation=0;" parent="1" vertex="1">
+        <mxCell id="A9bKyrjRJlpiytgId_qs-7" value="Регулация" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="385" y="130" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A9bKyrjRJlpiytgId_qs-8" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="160" as="sourcePoint" />
-            <mxPoint x="205" y="160" as="targetPoint" />
+            <mxPoint x="140" y="159" as="sourcePoint" />
+            <mxPoint x="195" y="159" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A9bKyrjRJlpiytgId_qs-10" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" edge="1">
@@ -191,17 +190,14 @@
         <mxCell id="A9bKyrjRJlpiytgId_qs-17" value="Резултати" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="650" y="125" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A9bKyrjRJlpiytgId_qs-20" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;strokeColor=#FF0000;" parent="1" source="A9bKyrjRJlpiytgId_qs-2" target="A9bKyrjRJlpiytgId_qs-4" edge="1">
+        <mxCell id="A9bKyrjRJlpiytgId_qs-20" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;strokeColor=#FF0000;" parent="1" source="A9bKyrjRJlpiytgId_qs-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="125" as="sourcePoint" />
-            <mxPoint x="710" y="80" as="targetPoint" />
+            <mxPoint x="585" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9bKyrjRJlpiytgId_qs-21" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeWidth=1.5;strokeColor=#FF0000;" parent="1" source="A9bKyrjRJlpiytgId_qs-4" target="A9bKyrjRJlpiytgId_qs-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="310" as="sourcePoint" />
-            <mxPoint x="440" y="260" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="2VZ7r19YvhN14f5mwsZL-2" value="&lt;div&gt;Работна сила &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Обект)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=1.5;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="505" y="120" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
