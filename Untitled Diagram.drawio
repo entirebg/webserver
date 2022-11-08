@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T09:26:19.605Z" agent="5.0 (Macintosh)" etag="wzwJm6DGsNjXPUy4vY9a" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-08T15:18:54.563Z" agent="5.0 (Macintosh)" etag="_7W_CzZg69PH9_u_bq0E" version="20.5.1" type="github" pages="4">
   <diagram id="OnhcADC_LUER88oLc82g" name="Фигура 1">
-    <mxGraphModel dx="846" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" math="0" shadow="0">
+    <mxGraphModel dx="846" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Xx7sSOrR2XzjiXDBcTC3" name="Фигура 2">
-    <mxGraphModel dx="757" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
         <mxCell id="NUNgj_yWfBi1Yf9tU7FG-15" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;Икономически и &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;социален съвет&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="100" y="380" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NUNgj_yWfBi1Yf9tU7FG-16" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Комисия по труд, социална и демографска политика към Народното събрание&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;" parent="1" vertex="1">
+        <mxCell id="NUNgj_yWfBi1Yf9tU7FG-16" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;Национален съвет за насърчаване на заетостта.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="600" y="380" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lIFegqCV4i_QUqWyxlsY-1" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=1.5;fontFamily=Times New Roman;fontColor=#FF0000;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NUNgj_yWfBi1Yf9tU7FG-2" target="NUNgj_yWfBi1Yf9tU7FG-5" edge="1">
@@ -123,14 +123,14 @@
             <mxPoint x="445" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AnRCAytWFfbyPVpovUW3-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Предприятие&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=1.5;fontFamily=Times New Roman;dashed=1;" vertex="1" parent="1">
+        <mxCell id="AnRCAytWFfbyPVpovUW3-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Предприятие&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=1.5;fontFamily=Times New Roman;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="375" y="360" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="QwW2KpcObmFaktJAiRRp" name="Фигура 3">
-    <mxGraphModel dx="946" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,7 +169,7 @@
         <mxCell id="A9bKyrjRJlpiytgId_qs-13" value="&lt;div&gt;Обратна връзка&lt;/div&gt;&lt;div&gt;Оценка на ефективността &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="350" y="170" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A9bKyrjRJlpiytgId_qs-14" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;strokeWidth=1.5;strokeColor=#FF0000;entryX=0.7;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="A9bKyrjRJlpiytgId_qs-16">
+        <mxCell id="A9bKyrjRJlpiytgId_qs-14" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;strokeWidth=1.5;strokeColor=#FF0000;entryX=0.7;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="A9bKyrjRJlpiytgId_qs-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="220" as="sourcePoint" />
             <mxPoint x="230" y="330" as="targetPoint" />
@@ -196,10 +196,10 @@
             <mxPoint x="585" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2VZ7r19YvhN14f5mwsZL-2" value="&lt;div&gt;Работна сила &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Обект)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=1.5;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="2VZ7r19YvhN14f5mwsZL-2" value="&lt;div&gt;Работна сила &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Обект)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=1.5;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="505" y="120" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2VZ7r19YvhN14f5mwsZL-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;strokeColor=#FF0000;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2VZ7r19YvhN14f5mwsZL-2" target="A9bKyrjRJlpiytgId_qs-3">
+        <mxCell id="2VZ7r19YvhN14f5mwsZL-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;strokeColor=#FF0000;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2VZ7r19YvhN14f5mwsZL-2" target="A9bKyrjRJlpiytgId_qs-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="375" y="120" as="sourcePoint" />
             <mxPoint x="425" y="70" as="targetPoint" />
@@ -209,32 +209,32 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YN8D_uwHkjDnnR47_D9A" name="Page-4">
-    <mxGraphModel dx="1046" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" math="0" shadow="0">
+    <mxGraphModel dx="1046" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C8CGJxy73WRXq-GwGk0G-2" value="Национален съвет за тристранни сътрудничество" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="C8CGJxy73WRXq-GwGk0G-2" value="Национален съвет за тристранни сътрудничество" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="80" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="C8CGJxy73WRXq-GwGk0G-6" value="&lt;div&gt;Отраслов / Браншов &lt;br&gt;&lt;/div&gt;&lt;div&gt;съвет за тристранно сътрудничество&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="C8CGJxy73WRXq-GwGk0G-6" value="&lt;div&gt;Отраслов / Браншов &lt;br&gt;&lt;/div&gt;&lt;div&gt;съвет за тристранно сътрудничество&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-40" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="C8CGJxy73WRXq-GwGk0G-8" value="Областен / Общински съвет за тристранно сътрудничество" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="C8CGJxy73WRXq-GwGk0G-8" value="Областен / Общински съвет за тристранно сътрудничество" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="200" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="C8CGJxy73WRXq-GwGk0G-10" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=1.5;fontSize=10;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="C8CGJxy73WRXq-GwGk0G-6" target="C8CGJxy73WRXq-GwGk0G-2">
+        <mxCell id="C8CGJxy73WRXq-GwGk0G-10" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=1.5;fontSize=10;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="C8CGJxy73WRXq-GwGk0G-6" target="C8CGJxy73WRXq-GwGk0G-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="140" as="sourcePoint" />
             <mxPoint x="90" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C8CGJxy73WRXq-GwGk0G-11" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=1.5;fontSize=10;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="C8CGJxy73WRXq-GwGk0G-8" target="C8CGJxy73WRXq-GwGk0G-2">
+        <mxCell id="C8CGJxy73WRXq-GwGk0G-11" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=1.5;fontSize=10;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="C8CGJxy73WRXq-GwGk0G-8" target="C8CGJxy73WRXq-GwGk0G-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="140" as="sourcePoint" />
             <mxPoint x="190" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C8CGJxy73WRXq-GwGk0G-12" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=1.5;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C8CGJxy73WRXq-GwGk0G-6" target="C8CGJxy73WRXq-GwGk0G-8">
+        <mxCell id="C8CGJxy73WRXq-GwGk0G-12" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=1.5;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="C8CGJxy73WRXq-GwGk0G-6" target="C8CGJxy73WRXq-GwGk0G-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="310" as="sourcePoint" />
             <mxPoint x="70" y="260" as="targetPoint" />
